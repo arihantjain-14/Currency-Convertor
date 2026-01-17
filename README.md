@@ -91,4 +91,4 @@ https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
 
 
 📸 Screenshot
-![Currency Convertor](image.png)
+<img width="1918" height="868" alt="Screenshot 2026-01-17 152424" src="https://github.com/user-attachments/assets/13db8257-b4f1-4a2c-9454-e9bdf14c1a07" />
