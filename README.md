@@ -80,7 +80,7 @@ https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
 
 ```bash
 -git clone https://github.com/your-username/currency-converter.git
-
+```
 2.Navigate to the project folder:
 
 -cd currency-converter
